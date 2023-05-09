@@ -1,6 +1,8 @@
 # Application Météo avec Flutter
 
-<img src="https://fs.npstatic.com/userfiles/7687254/image/Weather-app-w810h462.jpg"></img>
+Home Page               |  Plan View              
+:-------------------------:|:-------------------------:|
+<img src="https://github.com/Antoinegtir/weather/blob/main/screenshot/simulator_screenshot_44AED0F6-9C49-4A52-98DC-F0259D6AB995.png?raw=true" alt="Calandar Page" width="150"/>|<img src="https://github.com/Antoinegtir/weather/blob/main/screenshot/simulator_screenshot_496D7128-215D-4B99-A70B-4514ACD3A657.png?raw=true" alt="List Page" width="150"/>
 
 Au cours de ce Coding-club, tu vas apprendre a developper ta première application mobile réactive, crée son interface graphique, comprendre ce qu'est une API et récuperer ses données.
 
